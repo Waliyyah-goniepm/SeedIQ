@@ -1,0 +1,7 @@
+numpy<2.0.0
+streamlit
+tensorflow
+ultralytics
+opencv-python-headless
+numpy
+pillow
